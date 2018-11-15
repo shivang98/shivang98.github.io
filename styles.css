@@ -34,7 +34,7 @@ h1{
 .start_now:hover{
     background-color: white;
     border-color: white;
-    color: #4B8278;
+    color: rgb(75,130,120);
 }
 body{
     font-family: 'Lato', sans-serif !important;
@@ -92,7 +92,7 @@ ul {
 }
 
 #footer-cta {
-    background-color: #4B8278;
+    background-color: rgb(75,130,120);
     padding: 6em 4em 5.6em;
 }
 #footer-cta h2 {
@@ -111,7 +111,7 @@ ul {
     padding: 2em;
 }
 #footer #logo {
-    background-color: #4B8278;
+    background-color: rgb(75,130,120);
     border-radius: 50%;
     color: #fff;
     padding: .4em;
