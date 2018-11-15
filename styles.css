@@ -23,10 +23,9 @@ h1{
     font-weight: 900 !important;
 
 }
-.get_in_touch{
-    /*border-color: #247BA0 !important;*/
-    /*color: #247BA0 !important;*/
+.get_in_touch, .btn-primary{
     background-color: #247BA0 !important;
+    border-color: #247BA0 !important;
 }
 .start_now{
     border-color: white;
@@ -35,7 +34,7 @@ h1{
 .start_now:hover{
     background-color: white;
     border-color: white;
-    color: rgba(255, 103, 68, 0.91);
+    color: #4B8278;
 }
 body{
     font-family: 'Lato', sans-serif !important;
@@ -81,7 +80,6 @@ ul {
     font-family: "Maven pro", sans-serif;
     font-weight: 500;
 }
-
 #projects{
     padding: 6em 4em 5.6em;
 
@@ -94,7 +92,7 @@ ul {
 }
 
 #footer-cta {
-    background-color: rgba(255, 103, 68, 0.91);
+    background-color: #4B8278;
     padding: 6em 4em 5.6em;
 }
 #footer-cta h2 {
@@ -113,7 +111,7 @@ ul {
     padding: 2em;
 }
 #footer #logo {
-    background-color: rgba(255, 103, 68, 0.91);
+    background-color: #4B8278;
     border-radius: 50%;
     color: #fff;
     padding: .4em;
